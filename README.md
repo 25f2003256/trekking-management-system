@@ -28,7 +28,7 @@ This project was built for the **IIT Madras BSc/BS Degree in Data Science and Ap
 ## 🛠️ Technology Stack
 *   **Backend**: Python, Flask, Flask-SQLAlchemy
 *   **Database**: SQLite
-*   **Frontend**: Jinja2 Templating, HTML5, Vanilla CSS, Bootstrap 5
+*   **Frontend**: Jinja2 Templating, HTML5, Javascript, Bootstrap 5
 *   **Validation**: Server-side Flask controllers (core flow functions without JS)
 
 ---
